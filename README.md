@@ -24,7 +24,7 @@ Pull reguestler kabul edilir.Büyük değişiklikler için lütfen önce neyi de
 
 ---
 ### **Proje**
-![Lorem ipsum](https://raw.githubusercontent.com/recepinci/kodluyoruzilkrepo/main/Readme.JPG)
+![Proje1](https://raw.githubusercontent.com/recepinci/kodluyoruzilkrepo/main/Readme1.JPG)
 
 
 
