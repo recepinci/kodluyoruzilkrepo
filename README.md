@@ -1,4 +1,4 @@
-# **Kodluyoruz Ilk Repo**
+# ***Kodluyoruz Ilk Repo***
 Bu repo [Kodluyoruz](https:/https://www.patika.dev/tr)
 Front-End Eğitiminde oluşturduğumuz ilk repo. İcerisinde bir adet Readme dosyası, bir adet index.html dosyasi barındırıyor.
 ## **Installation**
